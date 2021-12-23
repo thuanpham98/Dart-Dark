@@ -1,2 +1,1 @@
-# Dart-Dark
-use dart in server side
+A simple command-line application.
